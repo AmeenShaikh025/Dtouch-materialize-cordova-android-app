@@ -1,0 +1,78 @@
+@media only screen and (max-width: 768px) {
+	.profile-info{
+		/*margin-left: 60px;*/
+		    padding-left: 110px !important;
+		    width: 660.5px !important;
+	}
+}
+
+
+@media only screen and (max-width: 425px) {
+	.profile-info{
+		/*margin-left: 0px;*/
+		padding-left: 30px !important;
+		width: 400.5px !important;
+	}
+
+}
+
+@media only screen and (max-width: 375px) {
+	.profile-info{
+		padding-left: 12px !important;
+	}
+
+}
+
+.me{
+	width: 200px !important;
+	padding-top: 5px;
+}
+
+.edit{
+	float: left;
+	border: 1px solid white !important;
+	margin-left: 60px;
+    margin-top: 5px;
+}
+
+
+.first-row{
+	margin-bottom: 0px !important;
+}
+
+.blood-group{
+	text-align: right;
+}
+
+.reporting-manager{
+	font-size: 26px;
+    font-weight: 200;
+    padding-left: 50px;
+}
+
+.o{
+	font-size: 37px
+}
+
+.repo-info{
+    margin-left: 60px !important;
+}
+
+.me-info{
+	margin-left: 60px !important;
+}
+
+
+@media only screen and (min-width: 768px) {
+	.edit{
+		margin-left: 150px;
+	}	
+
+}
+
+
+@media only screen and (min-width: 768px) {
+	.name{
+		font-size: 24px;
+	}
+}

@@ -1,0 +1,23 @@
+.name, .eid, .email{
+	color: #062726;
+}
+
+.icon-color{
+	color: #009688 !important;
+}
+
+.border{
+	border-bottom: 1px solid #cccccc;
+}
+
+
+
+.appleimage{
+	height: 300px !important;
+}
+
+.profile-link{
+	padding-left: 0px !important;
+}
+
+
