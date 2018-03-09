@@ -1,0 +1,180 @@
+.para{
+	font-weight: 400 !important;
+}
+
+.D-logo{
+	width: 200px;
+	height: 100px;
+	margin-left: 40px;
+}
+
+.welcome{
+	text-align: center;
+	font-size: 24px !important;
+	font-weight: bolder !important;
+}
+
+.dpbuttons{
+	height: 73px;
+}
+
+.dp-width-one{
+	height: 30px !important;
+	margin-bottom: 2px;
+    margin-top: 6px;
+    margin-left: 40%;
+    border-radius: 14px !important;
+    width: 206px;
+}
+.dp-width-two{
+	height: 30px !important;
+	margin-left: 30%;
+	border-radius: 14px !important;
+}
+
+
+@media only screen and (max-width: 768px) {
+	.D-logo{
+			margin-left: 215px;
+	}
+	.dp-width-one{
+    	margin-left: 280px;
+	}
+	.dp-width-two{
+		margin-left: 280px;
+	}
+}
+
+
+@media only screen and (max-width: 650px) {
+	.dp-width-one{
+		margin-left: 32%;
+	}
+	.dp-width-two{
+		margin-left: 32%;
+	}
+}
+
+
+@media only screen and (max-width: 425px) {
+	.D-logo{
+			margin-left: 80px;
+	}
+	.dp-width-one{
+		margin-left: 110px;
+	}
+	.dp-width-two{
+		margin-left: 110px;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.D-logo{
+			margin-left: 60px;
+	}
+	.dp-width-one{
+		margin-left: 90px;
+	}
+	.dp-width-two{
+		margin-left: 90px;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.D-logo{
+			margin-left: 30px;
+	}
+	.dp-width-one{
+		margin-left: 55px;
+	}
+	.dp-width-two{
+		margin-left: 55px;
+	}
+}
+
+
+
+
+
+
+/*code for menu.html*/
+
+.company-name{
+	padding-left: 30px;
+}
+
+.guest-user-inline{
+	display: inline;
+	padding-left: 40px;
+}
+
+.border{
+	border-bottom: 1px solid #cccccc;
+}
+
+.icon-color{
+	color: bisque !important;
+}
+
+.guest-icon{
+	padding-top: 5px;
+}
+.logo-first-menu{
+	width: 160px;
+	float: right;
+    padding-right: 5px;
+}
+
+/*Login*/
+
+
+.login {
+    text-align: center;
+}
+
+.login .button{
+    position: absolute;
+    top: 50%;
+}
+
+.forgot-ok{
+	float: left;
+}
+
+.forgot-close{
+	float: right;
+}
+
+.login-logo{
+	width: 150px;
+}
+
+@media only screen and (max-width: 768px) {
+	.login-logo{
+		margin-left: 260px;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.login-logo{
+		margin-left: 115px;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.login-logo{
+		margin-left: 95px;
+	}
+}
+
+
+@media only screen and (max-width: 320px) {
+	.login-logo{
+		margin-left: 75px;
+	}
+}
+
+.forgotpwd{
+	text-decoration: underline;
+}
+
